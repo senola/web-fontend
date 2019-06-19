@@ -1,7 +1,7 @@
 <header id="header" class="nav-main">
   <div class="row wrapper">
     <div class="col-w-1-5">
-        <a href="{{ url_for_lang('') }}" class="logo">SSJ</a>
+        <a href="{{ url_for_lang('') }}" class="logo">twindyorg</a>
     </div>
     <div class="col-w-3-5">
       <nav class="menu">
